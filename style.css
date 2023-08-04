@@ -11,6 +11,7 @@
     background: linear-gradient(45deg,#010758,#490d61);
     display: flex;
     align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
-1
